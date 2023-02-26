@@ -1,0 +1,59 @@
+
+
+{
+    "about":{
+    "name": "Marudha Nayagam",
+    "label": "MR",
+    "email": "marudhanayagam98@gmail.com",
+    "phone": 8610211667,
+    "website":"url",
+    "summary" : "Seeking a challenging position in a reputable organization to expand and utilize my learning, skills and knowledge",
+    "location": {
+      "postalCode": "621306",
+      "city": "Trichy",
+      "countryCode": "IND",
+      "region": "Tamilnadu"
+    },
+          {
+          "First Name":"Marudha",
+          "middleName":"Nayagam",
+         " lastName":"Murugan",
+         " education1":{
+             " UG":"B.Sc",
+              "subject":"Physics",
+              "college":"SJC College",
+              "CGPA":7.5,
+              "yearOfPassing":2019,
+             
+          },
+          "education2":{
+
+              "UG":"MBA",
+              "specialization":"finance and Marketing",
+              "college":"PSNA College",
+              "CGPA":7.5,
+              "yearOfPassing":2021,
+          },
+          "certifications":["Digital Marketing","MERN Fullstack"],
+          "extraCuricular":{
+             " secretary":["Symposium event","student Council","Cultural"],
+             " memberOfClubs":["Cultural","Shepherd Programme","Trekking Club","Volleyball Player"],
+          },
+          "hobbies":["reading","bikeride","videogames"],
+          "skills":["Communication","Public speaking","Attention to detail","Organizational Skill","Team Work"],
+          "Achievements":{
+              "Project1":{
+                  "title":"Dealers satifaction",
+                 " InternshipDuration":"4 months"
+              },
+              "project2":{
+                  "title":"Digital Marketing",
+                  "duration":"4 months"
+              },
+
+          }
+
+      }
+    }
+  
+}
